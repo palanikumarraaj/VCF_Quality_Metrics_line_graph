@@ -18,3 +18,7 @@ Install the mentioned packages and confirm the 4 metrics are present in the .vcf
 The ouput can be something similar as the given examples below.
 
 ![Alt text] (https://github.com/palanikumarraaj/VCF_Quality_Metrics_line_graph/tree/main/images/11383574_S23.bwa.sortdup.bqsr.hc4.png)
+
+
+ ![](images/11383574_S23.bwa.sortdup.bqsr.hc4.png)
+ 
