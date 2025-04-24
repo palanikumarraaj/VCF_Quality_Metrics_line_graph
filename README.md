@@ -9,10 +9,12 @@ Rscript usage provided below :
 Rscript vcf_metrics_plot_v2.R -i input.vcf -o output.png
 ```
 
-Script was tested in R 4.5.0 for VCF file format - 4.2
+Script was tested in R 4.5.0 for VCF file format - 4.2.
+
 Install the mentioned packages and confirm the 4 metrics are present in the .vcf file.
 
 > install.packages(c("ggplot2", "data.table", "dplyr", "tidyr","tools", "optparse"))
 
 The ouput can be something similar as the given examples below.
 
+![Alt text] (https://github.com/palanikumarraaj/VCF_Quality_Metrics_line_graph/tree/main/images/11383574_S23.bwa.sortdup.bqsr.hc4.png)
