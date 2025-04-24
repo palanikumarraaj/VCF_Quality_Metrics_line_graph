@@ -17,5 +17,5 @@ Install the mentioned packages and confirm the 4 metrics are present in the .vcf
 
 The ouput can be something similar as the given examples below.
 
- ![](images/11383574_S23.bwa.sortdup.bqsr.hc4.png)
+ ![](images/output.png)
  
